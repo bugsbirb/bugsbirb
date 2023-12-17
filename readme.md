@@ -3,4 +3,5 @@
 
 # Github Stats
 ![dark](https://github-readme-stats.vercel.app/api/top-langs/?username=DezBirdss&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![dark](https://github-readme-stats.vercel.app/api?username=DezBirdss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
