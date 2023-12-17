@@ -1,5 +1,5 @@
 # 👋 Hi i am bugsbirt
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 # Github Stats
 ![dark](https://github-readme-stats.vercel.app/api?username=DezBirdss&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
