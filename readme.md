@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1203493173079449631/1273618473045590186/0e0723ce46265094ea7dda085822c6a01-modified.png?ex=66bf4522&is=66bdf3a2&hm=f8c6b8b499fbcc261df61009cdad6b35e35b8c90578de4ded98f1d5302ef25ae&" alt="bugsbirt's profile picture" width="200" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/124417333?s=400&v=4" alt="bugsbirt's profile picture" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Hi, I am bugsbirt</h1>
