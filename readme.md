@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/124417333?s=400&v=4" alt="bugsbirt's profile picture" width="200" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">👋 Hi, I am bugsbirt</h1>
+<h1 align="center">👋 Hi, I am bugsy</h1>
 
 <p align="center">
   <img src="https://api.statusbadges.me/badge/status/795743076520820776?simple=true" alt="status" />
