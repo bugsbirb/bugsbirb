@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/124417333?s=400&v=4" alt="bugsbirt's profile picture" width="200" style="border-radius: 50%;" />
+  <img src="https://utfs.io/f/de192257-619b-4b3c-a4f7-03b895221f4b-93nzqf.png" alt="bugsbirt's profile picture" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 Hi, I am bugsy</h1>
