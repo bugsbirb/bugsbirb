@@ -11,9 +11,6 @@
   </a>
 </p>
 
-
-<h2 align="left">🎁 Support Me</h2>
-
 <p align="left">
   <a href="https://patreon.com/AstroBirb">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
