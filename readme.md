@@ -33,8 +33,4 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=bugsbirt&icon=0&color=0" alt="profile view count" />
-  </a>
-</p>
+
