@@ -22,7 +22,7 @@
 
 <h3 align="left">Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,c#)](https://skillicons.dev)
 
 
 
